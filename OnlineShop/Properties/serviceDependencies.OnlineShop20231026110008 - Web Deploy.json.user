@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2023-10-26T15:03:48.7841584Z"
+    }
+  },
+  "parameters": {
+    "OnlineShop20231026110008.subscriptionId": {
+      "Name": "OnlineShop20231026110008.subscriptionId",
+      "Type": "subscription",
+      "Value": "efbc1631-4116-4184-9b83-454b61ad974d"
+    },
+    "OnlineShop20231026110008.resourceGroupName": {
+      "Name": "OnlineShop20231026110008.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "OnlineShop20231026110008ResourceGroup"
+    },
+    "OnlineShop20231026110008.resourceGroupLocation": {
+      "Name": "OnlineShop20231026110008.resourceGroupLocation",
+      "Type": null,
+      "Value": "eastus"
+    },
+    "OnlineShop20231026110008.resourceName": {
+      "Name": "OnlineShop20231026110008.resourceName",
+      "Type": null,
+      "Value": "OnlineShop20231026110008"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "efbc1631-4116-4184-9b83-454b61ad974d"
+    },
+    "apis1.resourceGroupLocation": {
+      "Name": "apis1.resourceGroupLocation",
+      "Type": "location",
+      "Value": "eastus"
+    },
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "OnlineShop20231026110008ResourceGroup"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "efbc1631-4116-4184-9b83-454b61ad974d"
+    }
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\OnlineShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineShop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\311585_P_1667444812552.jpg",
+      "PackagePath": "staticwebassets\\Images\\311585_P_1667444812552.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\61jiwQ7b+vL._AC_UX695_.jpg",
+      "PackagePath": "staticwebassets\\Images\\61jiwQ7b+vL._AC_UX695_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\ARCHIES Footwear - Flip Flop Sandals.jpg",
+      "PackagePath": "staticwebassets\\Images\\ARCHIES Footwear - Flip Flop Sandals.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Apple.jfif",
+      "PackagePath": "staticwebassets\\Images\\Apple.jfif"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Apple_MacBook-Pro_14-16-inch_10182021_big.jpg.slideshow-large.jpg",
+      "PackagePath": "staticwebassets\\Images\\Apple_MacBook-Pro_14-16-inch_10182021_big.jpg.slideshow-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Boy Tuxedo Dress Shirt Suspender Pant Set.jpg",
+      "PackagePath": "staticwebassets\\Images\\Boy Tuxedo Dress Shirt Suspender Pant Set.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\CeraVe Daily Moisturizing Lotion.jpg",
+      "PackagePath": "staticwebassets\\Images\\CeraVe Daily Moisturizing Lotion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Character Print Long Sleeve Overlay Dress.jpg",
+      "PackagePath": "staticwebassets\\Images\\Character Print Long Sleeve Overlay Dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Flatform Wedge.jpg",
+      "PackagePath": "staticwebassets\\Images\\Flatform Wedge.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Floral Girls Dress.jpg",
+      "PackagePath": "staticwebassets\\Images\\Floral Girls Dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Girldresspurple.jpg",
+      "PackagePath": "staticwebassets\\Images\\Girldresspurple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Kurta.jfif",
+      "PackagePath": "staticwebassets\\Images\\Kurta.jfif"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Levi's Men's 517 Bootcut Jean.jpg",
+      "PackagePath": "staticwebassets\\Images\\Levi's Men's 517 Bootcut Jean.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Levi's Women's Original Trucker Jacket.jpg",
+      "PackagePath": "staticwebassets\\Images\\Levi's Women's Original Trucker Jacket.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\LogIn.jpg",
+      "PackagePath": "staticwebassets\\Images\\LogIn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Men's 813 V1 Lace-up Walking Shoe.jpg",
+      "PackagePath": "staticwebassets\\Images\\Men's 813 V1 Lace-up Walking Shoe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Men's Cotton Sweatpants.jpg",
+      "PackagePath": "staticwebassets\\Images\\Men's Cotton Sweatpants.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Men's Cush N Foot Slipper.jpg",
+      "PackagePath": "staticwebassets\\Images\\Men's Cush N Foot Slipper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Men's Go Max Clinched-Athletic Mesh Double Gore Slip on.jpg",
+      "PackagePath": "staticwebassets\\Images\\Men's Go Max Clinched-Athletic Mesh Double Gore Slip on.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Mens Loafers Dress Shoes.jpg",
+      "PackagePath": "staticwebassets\\Images\\Mens Loafers Dress Shoes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Mens Sherwani Blue Jutti Tradition Ethnic.jpg",
+      "PackagePath": "staticwebassets\\Images\\Mens Sherwani Blue Jutti Tradition Ethnic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Menswatch.jpg",
+      "PackagePath": "staticwebassets\\Images\\Menswatch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Mili.jpg",
+      "PackagePath": "staticwebassets\\Images\\Mili.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Mirrorworkmensgreen.jpg",
+      "PackagePath": "staticwebassets\\Images\\Mirrorworkmensgreen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Mkbag.jpg",
+      "PackagePath": "staticwebassets\\Images\\Mkbag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\NikeAJwomwns.jpg",
+      "PackagePath": "staticwebassets\\Images\\NikeAJwomwns.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Ripped Jeans for Women.jpg",
+      "PackagePath": "staticwebassets\\Images\\Ripped Jeans for Women.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Sam Edelman Women's Kia Heel.jpg",
+      "PackagePath": "staticwebassets\\Images\\Sam Edelman Women's Kia Heel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Steve Madden Men's Fenta Fashion Sneaker.jpg",
+      "PackagePath": "staticwebassets\\Images\\Steve Madden Men's Fenta Fashion Sneaker.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\THE NORTH FACE Men's Skeena Sandal.jpg",
+      "PackagePath": "staticwebassets\\Images\\THE NORTH FACE Men's Skeena Sandal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Watchwomens.jpg",
+      "PackagePath": "staticwebassets\\Images\\Watchwomens.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\White Hollow Embroidered Round Neck Sleeveless Dress.jpg",
+      "PackagePath": "staticwebassets\\Images\\White Hollow Embroidered Round Neck Sleeveless Dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Women's Fashion Floral Art Sneaker.jpg",
+      "PackagePath": "staticwebassets\\Images\\Women's Fashion Floral Art Sneaker.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Women's Summer Floral Maxi Sun Dress.jpg",
+      "PackagePath": "staticwebassets\\Images\\Women's Summer Floral Maxi Sun Dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Women's Summer One Shoulder Sleeveless Knot Smocked Midi Dress Split Tiered Flowy Dresses.jpg",
+      "PackagePath": "staticwebassets\\Images\\Women's Summer One Shoulder Sleeveless Knot Smocked Midi Dress Split Tiered Flowy Dresses.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Women’s Chunky Low Heeled Sandals.jpg",
+      "PackagePath": "staticwebassets\\Images\\Women’s Chunky Low Heeled Sandals.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\alexmens.jpg",
+      "PackagePath": "staticwebassets\\Images\\alexmens.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\boywhite.jpg",
+      "PackagePath": "staticwebassets\\Images\\boywhite.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\dell-long-term-test-5510.jpg",
+      "PackagePath": "staticwebassets\\Images\\dell-long-term-test-5510.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\dell.jfif",
+      "PackagePath": "staticwebassets\\Images\\dell.jfif"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\download (1).jpg",
+      "PackagePath": "staticwebassets\\Images\\download (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\download.jpg",
+      "PackagePath": "staticwebassets\\Images\\download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\ezgif.com-webp-to-jpg (1).jpg",
+      "PackagePath": "staticwebassets\\Images\\ezgif.com-webp-to-jpg (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\ezgif.com-webp-to-jpg (2).jpg",
+      "PackagePath": "staticwebassets\\Images\\ezgif.com-webp-to-jpg (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\ezgif.com-webp-to-jpg.jpg",
+      "PackagePath": "staticwebassets\\Images\\ezgif.com-webp-to-jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\girltop.jpg",
+      "PackagePath": "staticwebassets\\Images\\girltop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\il_1588xN.4241475885_mh5n.jpg",
+      "PackagePath": "staticwebassets\\Images\\il_1588xN.4241475885_mh5n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\instock.png",
+      "PackagePath": "staticwebassets\\Images\\instock.png"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\iphone - Copy - Copy.jfif",
+      "PackagePath": "staticwebassets\\Images\\iphone - Copy - Copy.jfif"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\iphone - Copy.jfif",
+      "PackagePath": "staticwebassets\\Images\\iphone - Copy.jfif"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\iphone.jfif",
+      "PackagePath": "staticwebassets\\Images\\iphone.jfif"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\iphone13 - Copy.jfif",
+      "PackagePath": "staticwebassets\\Images\\iphone13 - Copy.jfif"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\iphone13.jfif",
+      "PackagePath": "staticwebassets\\Images\\iphone13.jfif"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\iphone15.jfif",
+      "PackagePath": "staticwebassets\\Images\\iphone15.jfif"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\jogger.jpg",
+      "PackagePath": "staticwebassets\\Images\\jogger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\kurta redmen.jpg",
+      "PackagePath": "staticwebassets\\Images\\kurta redmen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\menswear white trad.jpg",
+      "PackagePath": "staticwebassets\\Images\\menswear white trad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\notinstock.jpg",
+      "PackagePath": "staticwebassets\\Images\\notinstock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\pleated orange",
+      "PackagePath": "staticwebassets\\Images"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\saree blue.jpg",
+      "PackagePath": "staticwebassets\\Images\\saree blue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\tshirt.jpg",
+      "PackagePath": "staticwebassets\\Images\\tshirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\css\\checkout.css",
+      "PackagePath": "staticwebassets\\css\\checkout.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\css\\mybootstraptheme.css",
+      "PackagePath": "staticwebassets\\css\\mybootstraptheme.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\js\\checkout.js",
+      "PackagePath": "staticwebassets\\js\\checkout.js"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monar\\OneDrive\\Desktop\\personal\\project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.OnlineShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.OnlineShop.props",
+      "PackagePath": "build\\OnlineShop.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineShop.props",
+      "PackagePath": "buildMultiTargeting\\OnlineShop.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.OnlineShop.props",
+      "PackagePath": "buildTransitive\\OnlineShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
