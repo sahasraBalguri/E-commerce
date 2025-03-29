@@ -149,7 +149,7 @@ CREATE TABLE [dbo].[AspNetUserLogins](
 	[ProviderKey] [nvarchar](128) NOT NULL,
 	[ProviderDisplayName] [nvarchar](max) NULL,
 	[UserId] [nvarchar](450) NOT NULL,
- CONSTRAINT [PK_AspNetUserLogins] PRIMARY KEY CLUSTERED 
+ CONSTRAINT [PK_AspNetUserLogins] PRIMARY KEY CLUSTERED
 (
 	[LoginProvider] ASC,
 	[ProviderKey] ASC
